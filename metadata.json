@@ -1,0 +1,7 @@
+{
+  "name": "Sent Ones",
+  "description": "Official app for Sent One's Holy Spirit Ministry - services, ministries, giving, prophetic school, counseling, community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
